@@ -1,3 +1,4 @@
-print('Ola mundo!')
-
-print('\nTeste again')
+dicionario = {
+    "Pedro": "Victor",
+    "Idade": 24,
+}
